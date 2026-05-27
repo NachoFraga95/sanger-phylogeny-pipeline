@@ -1,0 +1,148 @@
+Abajo se describe la estructura de carpetas utilizada para el procesamiento y análisis de secuencias Sanger del proyecto, con el objetivo de facilitar la revisión, trazabilidad y reproducibilidad del flujo de trabajo.
+
+01_trimmed
+
+Contiene las secuencias Sanger recortadas (trimming) por calidad, una vez eliminadas las regiones iniciales y finales de baja confianza de los cromatogramas.
+
+Entrada: secuencias crudas (AB1)
+
+Salida: secuencias limpias, listas para ensamblaje
+
+Objetivo: asegurar que solo se utilicen regiones de alta calidad
+
+02_consensus
+
+Incluye las secuencias consenso obtenidas a partir del ensamblaje de lecturas forward y reverse para cada muestra.
+
+Cada archivo representa un individuo
+
+Se basa en alineamientos F/R
+
+Estas secuencias son la base para todos los análisis posteriores
+
+03_markers
+
+Agrupa las secuencias consenso separadas por marcador genético (por ejemplo, genes mitocondriales o nucleares).
+
+Facilita análisis independientes por gen
+
+Permite evaluar congruencia entre marcadores
+
+03_markers_raw
+
+Versión no filtrada de los marcadores, tal como salen del paso de separación por gen.
+
+Conserva secuencias antes de limpieza fina
+
+Sirve de respaldo y control de calidad
+
+04_align
+
+Contiene los alineamientos múltiples por marcador, sin aplicar filtrado manual o automático.
+
+Incluye regiones ambiguas
+
+Sirve como referencia del alineamiento original
+
+04_align_filtered
+
+Alineamientos curados/filtrados, sin regiones mal alineadas o ambiguas.
+
+Alineamientos finales por gen
+
+Insumo directo para concatenación y filogenia
+
+05_concatenados
+
+Esta carpeta contiene los datasets concatenados finales utilizados para inferencias filogenéticas, junto con los archivos auxiliares necesarios.
+
+El subdirectorio Eupsophus_only corresponde a un dataset filtrado que incluye exclusivamente secuencias del género Eupsophus, excluyendo outgroups. Este conjunto es el utilizado para los análisis y figuras finales.
+
+Secuencias y alineamientos
+
+12S.filtered, 16S.filtered, COI.filtered, CYTB.filtered, CRY.filtered, DLOOP.filtered (FASTA)
+Alineamientos individuales por marcador, ya curados y filtrados. Constituyen el insumo directo para la concatenación multilocus.
+
+Eupsophus_supermatrix (FASTA)
+Supermatriz resultante de la concatenación de todos los marcadores. Representa el dataset molecular completo usado en la inferencia filogenética.
+
+Eupsophus_partitions
+Archivo de particiones que define los rangos de cada gen dentro de la supermatriz, permitiendo aplicar modelos evolutivos independientes por marcador.
+
+Eupsophus_concat.best_scheme
+Esquema de particionado y modelos de sustitución seleccionados automáticamente.
+
+Eupsophus_concat.best_model.nex / Eupsophus_concat.model
+Archivos que contienen el modelo evolutivo óptimo inferido a partir de los datos concatenados.
+
+Eupsophus_concat.splits.nex
+Información de splits/clados utilizada para análisis comparativos o visualización avanzada.
+
+Eupsophus_concat.mldist
+Matriz de distancias calculada bajo el modelo seleccionado.
+
+Eupsophus_concat.treefile / .iqtree / .contree
+Árbol óptimo y árbol consenso resultantes de la inferencia filogenética, con valores de soporte estadístico.
+
+Eupsophus_concat.RENAMED.treefile
+Versión final del árbol con etiquetas estandarizadas y enriquecidas (especie, código de muestra, localidad y año), utilizada para visualización y figuras.
+
+Eupsophus_label_map (TSV)
+Tabla de mapeo entre identificadores originales y etiquetas finales del árbol. Permite reconstruir o modificar los nombres de las hojas de forma reproducible.
+
+colorstrip_species / colorstrip_locality
+Archivos de anotación para iTOL que permiten visualizar especies y localidades mediante bandas de color independientes.
+
+make_label_map_eupsophus.py
+Script para generar automáticamente el mapeo de etiquetas a partir de los metadatos.
+
+make_colorstrips_species_locality.py
+Script para generar los archivos de colorstrips de especies y localidades.
+
+
+
+Secuencias 2024
+
+Datos correspondientes a las secuencias obtenidas durante las extracciones realizadas en 2024.
+
+Incluye cromatogramas originales 
+
+Mantiene separación temporal del muestreo
+
+Subcarpeta 2024_renombradas: archivos con nombres estandarizados para análisis. Son todas las secuencias renombradas según se encuentran en el archivo "meta_2024", con el formato "año_ID_marcador_dirección" (ID corresponde al número del individuo en la tabla)
+
+Secuencias 2025
+
+Datos correspondientes a las secuencias obtenidas durante la campaña 2025.
+
+Incluye cromatogramas AB1 originales
+
+Subcarpeta 2025_renombradas: archivos con nombres estandarizados para análisis. Son todas las secuencias renombradas según se encuentran en el archivo "meta_2025", con el formato "año_ID_marcador_dirección" (ID corresponde al número del individuo en la tabla)
+
+
+
+📄 meta_2024.xlsx / meta_2024.tsv
+
+Archivos de metadatos de muestras 2024.
+
+Incluyen información como:
+
+Código de muestra
+
+Especie asignada
+
+Localidad
+
+Año de muestreo
+
+📄 meta_2025.xlsx / meta_2025.tsv
+
+Archivos de metadatos de muestras 2025, análogos a los de 2024.
+
+Utilizados para etiquetado de secuencias
+
+Insumo para anotaciones en árboles (iTOL)
+
+
+
+Esta estructura está pensada para mantener trazabilidad completa desde el cromatograma crudo hasta el árbol filogenético final, permitiendo reutilización de los datos.

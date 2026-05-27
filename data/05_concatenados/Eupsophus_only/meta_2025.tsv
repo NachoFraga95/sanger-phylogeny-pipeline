@@ -1,0 +1,65 @@
+ID	Especie	Código	Tipo muestra	Localidad	Año	LABORATORIO
+1	Eupsophus roseus	Erorloc03	Tejido hepático	Río Los Cruces	2024	LAB ECO EVO UBB 
+2	Eupsophus roseus	Erorloc04	Biopsia hepática	Río Los Cruces	2024	LAB ECO EVO UBB 
+3	Eupsophus roseus	Erorloc01	Tejido hepático	Río Los Cruces	2024	LAB ECO EVO UBB 
+4	Eupsophus roseus	Eropuc01	Biopsia hepática	Pucón	2024	LAB ECO EVO UBB 
+5	Eupsophus vertebralis	Evercol02	Tejido hepático	Colegual	2024	LAB ECO EVO UBB 
+6	Eupsophus vertebralis	Esp01	Biopsia hepática	Colegual	2024	LAB ECO EVO UBB 
+7	Eupsophus vertebralis	Evercol04	Biopsia hepática	Colegual	2024	LAB ECO EVO UBB 
+8	Eupsophus roseus	Eroarb08	Biopsia hepática	Arboretum	2024	LAB ECO EVO UBB 
+9	Eupsophus roseus	Eroarb09	Biopsia hepática	Arboretum	2024	LAB ECO EVO UBB 
+10	Eupsophus roseus	Eroarb01	Biopsia hepática	Arboretum	2024	LAB ECO EVO UBB 
+11	Eupsophus roseus	Eroarb06	Biopsia hepática	Arboretum	2024	LAB ECO EVO UBB 
+12	Eupsophus roseus	Eroarb04	Biopsia hepática	Arboretum	2024	LAB ECO EVO UBB 
+13	Eupsophus roseus	Eroarb07	Tejido hepático	Arboretum	2024	LAB ECO EVO UBB 
+14	Eupsophus roseus	Eroarb05	Tejido hepático	Arboretum	2024	LAB ECO EVO UBB 
+15	Eupsophus roseus	Eroarb11	Tejido hepático	Arboretum	2024	LAB ECO EVO UBB 
+16	Eupsophus roseus	Eroarb10	Tejido hepático	Arboretum	2024	LAB ECO EVO UBB 
+17	Eupsophus roseus	Eroarb02	Tejido hepático	Arboretum	2024	LAB ECO EVO UBB 
+18	Eupsophus vertebralis	Evercol06	Biopsia hepática	Colegual	2024	LAB ECO EVO UBB 
+19	Eupsophus altor	Ealtale01	Biopsia hepática	Alepue	2024	LAB ECO EVO UBB 
+20	Eupsophus vertebralis	Evercol07	Biopsia hepática	Colegual	2024	LAB ECO EVO UBB 
+21	Eupsophus roseus	Erocol02	Biopsia hepática	Colegual	2024	LAB ECO EVO UBB 
+22	Eupsophus vertebralis	Everale01	Biopsia hepática	Alepue	2024	LAB ECO EVO UBB 
+23	Eupsophus roseus	Ercocol01	Tejido hepático	Colegual	2024	LAB ECO EVO UBB 
+24	Eupsophus altor	Ealtale02	Tejido hepático	Alepue	2024	LAB ECO EVO UBB 
+25	Eupsophus vertebralis	Everponco01	Biopsia hepática	Parque Oncol	2024	LAB ECO EVO UBB 
+26	Eupsophus roseus	Eroponco01	Biopsia hepática	Parque Oncol	2024	LAB ECO EVO UBB 
+27	Eupsophus roseus	Eroponco03	Biopsia hepática	Parque Oncol	2024	LAB ECO EVO UBB 
+28	Eupsophus vertebralis	Evercol05	Tejido hepático	Colegual	2024	LAB ECO EVO UBB 
+29	Eupsophus roseus	Eroponco08	Tejido hepático	Parque Oncol	2024	LAB ECO EVO UBB 
+30	Eupsophus roseus	Eroponco02	Tejido hepático	Parque Oncol	2024	LAB ECO EVO UBB 
+31	Eupsophus altor	Ealtpocon03	Biopsia hepática	Parque Oncol	2024	LAB ECO EVO UBB 
+32	Eupsophus vertebralis	Everponco06	Tejido hepático	Parque Oncol	2024	LAB ECO EVO UBB 
+33	Eupsophus vertebralis	Everponco07	Biopsia hepática	Parque Oncol	2024	LAB ECO EVO UBB 
+34	Pleurodema thaul	Pthañsl01	Tejido hepático	Ñuble	2024	LAB ECO EVO UBB 
+35	Pleurodema thaul	Pthalau09	Tejido hepático	Lautaro	2024	LAB ECO EVO UBB 
+36	Pleurodema thaul	Pthalau16	Tejido hepático	Lautaro	Año 	LAB ECO EVO UBB 
+37	Pleurodema thaul	Pthalau02	Tejido hepático	Lautaro	2024	LAB ECO EVO UBB 
+38	Pleurodema thaul	Pthalau21	Tejido hepático	Lautaro	2024	LAB ECO EVO UBB 
+39	Pleurodema thaul	Pthalau10	Tejido hepático	Lautaro	2024	LAB ECO EVO UBB 
+40	Pleurodema thaul	Pthalau14	Tejido hepático	Lautaro	2024	LAB ECO EVO UBB 
+41	Eupsophus roseus	Erorlc14	Tejido hepático	Río Los Cruces	2024	LAB ECO EVO UBB 
+42	Eupsophus roseus	Eroarb03	Biopsia hepática	Arboretum 	2024	LAB ECO EVO UBB 
+43	Eupsophus migueli	Emigcol0516	Tejido hepático	Colegual II	2016	LAB ECO EVO UBB 
+44	Eupsophus migueli	Emigcol0416	Tejido hepático	Colegual II	2016	LAB ECO EVO UBB 
+45	Eupsophus migueli	Emigcol0216	Biopsia hepática	Colegual III	2016	LAB ECO EVO UBB 
+46	Eupsophus migueli	Emigcol1316	Biopsia hepática	Colegual II	2016	LAB ECO EVO UBB 
+47	Eupsophus migueli	Emigcol0416	Tejido hepático	Colegual III	2016	LAB ECO EVO UBB 
+48	Eupsophus migueli	Emigcol0616	Tejido hepático	Colegual II	2016	LAB ECO EVO UBB 
+49	Eupsophus migueli	Emigcol1416	Biopsia hepática	Colegual II	2016	LAB ECO EVO UBB 
+50	Eupsophus insularis	Einsmo2216	Biopsia hepática	Isla Mocha	sf	LAB ECO EVO UBB 
+51	Eupsophus insularis	Einsim2516	Tejido hepático	Isla Mocha	sf	LAB ECO EVO UBB 
+52	Eupsophus insularis	Einsim1616	Biopsia hepática	Isla Mocha	sf	LAB ECO EVO UBB 
+53	Eupsophus insularis	Einsim1516	Biopsia hepática	Isla Mocha	sf	LAB ECO EVO UBB 
+54	Eupsophus insularis	Einsim2616	Biopsia hepática	Isla Mocha	sf	LAB ECO EVO UBB 
+55	Eupsophus insularis	Einsim1416	Biopsia hepática	Isla Mocha	sf	LAB ECO EVO UBB 
+56	Eupsophus altor	Ealtcha1616	Tejido hepático	Chanchan	2016	LAB ECO EVO UBB 
+57	Eupsophus altor	Ealtcha1516	Tejido hepático	Chanchan	2016	LAB ECO EVO UBB 
+58	Eupsophus altor	Ealtcha1216	Tejido hepático	Chanchan	2016	LAB ECO EVO UBB 
+59	Eupsophus altor	Ealtcha1716	Tejido hepático	Chanchan	2016	LAB ECO EVO UBB 
+60	Eupsophus altor	Ealtcha1816	Biopsia hepática	Chanchan	2016	LAB ECO EVO UBB 
+61	Eupsophus altor	Ealtcha1416	Tejido hepático	Chanchan	2016	LAB ECO EVO UBB 
+62	Eupsophus altor	Ealtcha1316	Tejido hepático	Chanchan	2016	LAB ECO EVO UBB 
+63	Eupsophus altor	Ealtcha1916	Biopsia hepática	Chanchan	2016	LAB ECO EVO UBB 
+64	Eupsophus roseus	Eropuc03	Tejido hepático	Pucón	2024	LAB ECO EVO UBB 

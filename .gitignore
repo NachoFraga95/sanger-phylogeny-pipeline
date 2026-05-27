@@ -1,0 +1,14 @@
+# Raw sequencing files - too large for GitHub
+*.ab1
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+Secuencias 2024/
+Secuencias 2025/
+01_trimmed/
+
+# System files
+.DS_Store
+__pycache__/
+*.pyc

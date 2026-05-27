@@ -1,0 +1,26 @@
+En la carpeta de alineamientos se encuentran:
+
+04_align/           = alineamientos crudos
+04_align_filtered/  = alineamientos filtradas (sin problemas, sin ruido)
+
+El encabezado de cada archivo fasta tiene el año_ID_marcador:
+
+Año: año en que fue extraida la muestra
+ID: numero de la muestra sacado de la planilla entregada a principios de año.
+
+Este formato se hizo así para facilitar el manejo de las secuencias sin depender de sus codigos.
+Al alinear las secuencias de 2024 y 2025 unificadas, se mantiene el formato para que no se solapen numeros de cada lista, de especies distintas (ej: la muestra N°19 de 2024 es E.roseus Erossj032023h mientras que la N°19 de 2025 es E.altor Ealtale01), y de esa manera se produce el arbol con las muestras de ambos años sin que se pisen entre ellas, manteniendolas además en las etiquetas para los arboles.
+
+IMPORTANTE:  Los arboles se generaron con los alineamientos de mejor calidad (filtradas).
+
+Si en los árboles no aparecen ciertas combinaciones de especie-marcador, es porque la calidad del trimming/consenso/alineamiento no fue suficiente para pasar el filtro mínimo del bootstrap para generar una hoja del arbol.
+
+Nota:
+Los árboles incluidos en esta carpeta corresponden a versiones de trabajo generadas con las secuencias disponibles al momento del análisis.
+A nivel visual (grosor de ramas, tamaño de etiquetas, escalado, colorstrips), las figuras pueden modificarse libremente en iTOL según el formato que ustedes prefieran.
+Cuando se incorporen las últimas secuencias faltantes, los árboles se actualizarán sin inconvenientes manteniendo el mismo estilo visual.
+
+Si lo desean, puedo unificar los formatos de todos los marcadores en un solo PDF por gen para facilitar su revisión.
+
+El arbol concatenado muestra los 8 marcadores, cada uno con un color distinto, además de los mismos colores para "año de extraccion" que los demás arboles. 
+También este arbol es preliminar y puede ser modificado según me lo indiquen.
