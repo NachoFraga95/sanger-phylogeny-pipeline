@@ -1,0 +1,87 @@
+ID	Especie	Código	Tipo muestra	Localidad	Año	LABORATORIO
+1	Eupsophus roseus	Erossj012017	Biopsia hepática	Santa Juana	2017	LAB ECO EVO UBB 
+2	Eupsophus roseus	Erossj022017	Biopsia hepática	Santa Juana	2017	LAB ECO EVO UBB 
+3	Eupsophus roseus	Erossj032017	Tejido hepático	Santa Juana	2017	LAB ECO EVO UBB 
+4	Eupsophus roseus	Erossj042017	Tejido hepático	Santa Juana	2017	LAB ECO EVO UBB 
+5	Eupsophus contulmoensis	Econtct012017	Tejido hepático	Contulmo	2017	LAB ECO EVO UBB 
+6	Eupsophus contulmoensis	Econtct022017	Tejido hepático	Contulmo	2017	LAB ECO EVO UBB 
+7	Eupsophus contulmoensis	Econtct032017	Tejido hepático	Contulmo	2017	LAB ECO EVO UBB 
+8	Eupsophus migueli	Emicol1012016	Tejido hepático	Colegual IV	2016	LAB ECO EVO UBB 
+9	Eupsophus migueli	Emicol1022016	Tejido hepático	Colegual IV	2016	LAB ECO EVO UBB 
+10	Eupsophus migueli	Emicol1032016	Tejido hepático	Colegual IV	2016	LAB ECO EVO UBB 
+11	Eupsophus migueli	Emicol1042016	Tejido hepático	Colegual IV	2016	LAB ECO EVO UBB 
+12	Eupsophus migueli	Emicol1052016	Tejido hepático	Colegual IV	2016	LAB ECO EVO UBB 
+13	Eupsophus septentrionalis	Esep01	Tejido hepático	Los Queules	2017	LAB ECO EVO UBB 
+14	Eupsophus septentrionalis	Esep02	Tejido hepático	Los Queules	2017	LAB ECO EVO UBB 
+15	Eupsophus roseus	Erossj012023	Hisopado cutáneo	Santa Juana	2023	LAB ECO EVO UBB 
+16	Eupsophus roseus	Erossj022023	Hisopado cutáneo	Santa Juana	2023	LAB ECO EVO UBB 
+17	Eupsophus roseus	Erossj032023	Hisopado cutáneo	Santa Juana	2023	LAB ECO EVO UBB 
+18	Eupsophus roseus	Erossj012023h	Tejido hepático	Santa Juana	2023	LAB ECO EVO UBB 
+19	Eupsophus roseus	Erossj032023h	Tejido hepático	Santa Juana	2023	LAB ECO EVO UBB 
+20	Eupsophus altor	Ealtceron012016	Tejido hepático	Cerro Oncol	2016	LAB ECO EVO UBB 
+21	Eupsophus altor	Ealtceron022016	Tejido hepático	Cerro Oncol	2016	LAB ECO EVO UBB 
+22	Eupsophus altor	Ealtceron032016	Tejido hepático	Cerro Oncol	2016	LAB ECO EVO UBB 
+23	Eupsophus altor	Ealtceron042016	Tejido hepático	Cerro Oncol	2016	LAB ECO EVO UBB 
+24	Eupsophus altor	Ealtceron052016	Tejido hepático	Cerro Oncol	2016	LAB ECO EVO UBB 
+25	Eupsophus altor	Ealtceron062016	Biopsia hepática	Cerro Oncol	2016	LAB ECO EVO UBB 
+26	Eupsophus altor	Ealtceron07sf	Biopsia hepática	Cerro Oncol	s/f	LAB ECO EVO UBB 
+27	Eupsophus altor	Ealtceron08sf	Biopsia hepática	Cerro Oncol	s/f	LAB ECO EVO UBB 
+28	Eupsophus altor	Ealtceron09sf	Tejido hepático	Cerro Oncol	s/f	LAB ECO EVO UBB 
+29	Eupsophus altor	Ealtceron10sf	Tejido hepático	Cerro Oncol	s/f	LAB ECO EVO UBB 
+30	Eupsophus altor	Ealtceron11sf	Tejido hepático	Cerro Oncol	s/f	LAB ECO EVO UBB 
+31	Eupsophus altor	Ealtceron12sf	Biopsia hepática	Cerro Oncol	s/f	LAB ECO EVO UBB 
+32	Eupsophus altor	Ealtceron13sf	Biopsia hepática	Cerro Oncol	s/f	LAB ECO EVO UBB 
+33	Eupsophus altor	Ealtceron14sf	Biopsia hepática	Cerro Oncol	s/f	LAB ECO EVO UBB 
+34	Eupsophus altor	Ealtceron15sf	Biopsia hepática	Cerro Oncol	s/f	LAB ECO EVO UBB 
+35	Eupsophus septentrionalis	Esep032017	Biopsia hepática	Los Queules	2017	LAB ECO EVO UBB 
+36	Eupsophus septentrionalis	Esep042017	Tejido hepático	Los Queules	2017	LAB ECO EVO UBB 
+37	Eupsophus septentrionalis	Esep052017	Tejido hepático	Los Queules	2017	LAB ECO EVO UBB 
+38	Eupsophus septentrionalis	Esep062017	Biopsia hepática	Los Queules	2017	LAB ECO EVO UBB 
+39	Eupsophus septentrionalis	Esep072017	Tejido hepático	Los Queules	2017	LAB ECO EVO UBB 
+40	Eupsophus septentrionalis	Esep082017	Tejido hepático	Los Queules	2017	LAB ECO EVO UBB 
+41	Eupsophus roseus	Erossj022023h	Tejido hepático	Santa Juana	2023	LAB ECO EVO UBB 
+42	Pleurodema bufonina 	Pbuflj0124	Biopsia hepática	Los Barros	2024	LAB ECO EVO UBB 
+43	Pleurodema bufonina 	Pbuflj0224	Biopsia hepática	Los Barros	2024	LAB ECO EVO UBB 
+44	Pleurodema bufonina 	Pbufpp0124	Biopsia hepática	Paso pehuenche	2024	LAB ECO EVO UBB 
+45	Pleurodema bufonina 	Pbufpp0224	Biopsia hepática	Paso pehuenche	2024	LAB ECO EVO UBB 
+46	Pleurodema bufonina 	Pbufpp0324	Tejido hepático	Paso pehuenche	2024	LAB ECO EVO UBB 
+47	Pleurodema bufonina 	Pbufpp0424	Tejido hepático	Paso pehuenche	2024	LAB ECO EVO UBB 
+48	Pleurodema bufonina 	Pbufpp0524	Biopsia hepática	Paso pehuenche	2024	LAB ECO EVO UBB 
+49	Pleurodema bufonina 	Pbufpp0624	Biopsia hepática	Paso pehuenche	2024	LAB ECO EVO UBB 
+50	Pleurodema bufonina 	Pbufpp0724	Tejido hepático	Paso pehuenche	2024	LAB ECO EVO UBB 
+51	Pleurodema bufonina 	Pbufpp0824	Biopsia hepática	Paso pehuenche	2024	LAB ECO EVO UBB 
+52	Pleurodema bufonina 	Pbufpp0924	Biopsia hepática	Paso pehuenche	2024	LAB ECO EVO UBB 
+53	Pleurodema bufonina 	Pbufpp1024	Biopsia hepática	Paso pehuenche	2024	LAB ECO EVO UBB 
+54	Pleurodema bufonina 	Pbufpp1124	Tejido hepático	Paso pehuenche	2024	LAB ECO EVO UBB 
+55	Pleurodema bufonina 	Pbufpp1224	Biopsia hepática	Paso pehuenche	2024	LAB ECO EVO UBB 
+56	Pleurodema bufonina 	Pbufpp1324	Tejido hepático	Paso pehuenche	2024	LAB ECO EVO UBB 
+57	Pleurodema bufonina 	Pbufpp1424	Tejido hepático	Paso pehuenche	2024	LAB ECO EVO UBB 
+58	Pleurodema bufonina 	Pbufpp1524	Biopsia hepática	Paso pehuenche	2024	LAB ECO EVO UBB 
+59	Pleurodema bufonina 	Pbufpp1624	Tejido hepático	Paso pehuenche	2024	LAB ECO EVO UBB 
+60	Pleurodema bufonina 	Pbufpp1724	Biopsia hepática	Paso pehuenche	2024	LAB ECO EVO UBB 
+61	Pleurodema bufonina 	Pbufpp1824	Biopsia hepática	Paso pehuenche	2024	LAB ECO EVO UBB 
+62	Alsodes hugoi 	Ahugsl0124c	Tejido muscular aleta caudal	Shangri-La	2024	LAB ECO EVO UBB 
+63	Alsodes hugoi 	Ahugsl0224c	Tejido muscular aleta caudal	Shangri-La	2024	LAB ECO EVO UBB 
+64	Alsodes hugoi 	Ahugsl0324c	Tejido muscular aleta caudal	Shangri-La	2024	LAB ECO EVO UBB 
+65	Alsodes hugoi 	Ahugsl0424c	Tejido muscular aleta caudal	Shangri-La	2024	LAB ECO EVO UBB 
+66	Alsodes hugoi 	Ahugsl0524c	Tejido muscular aleta caudal	Shangri-La	2024	LAB ECO EVO UBB 
+67	Alsodes hugoi 	Ahugsl0624c	Tejido muscular aleta caudal	Shangri-La	2024	LAB ECO EVO UBB 
+68	Alsodes hugoi 	Ahugsl0724c	Tejido muscular aleta caudal	Shangri-La	2024	LAB ECO EVO UBB 
+69	Alsodes hugoi 	Ahugsl0924c	Tejido muscular aleta caudal	Shangri-La	2024	LAB ECO EVO UBB 
+70	Alsodes hugoi 	Ahugsl1024c	Tejido muscular aleta caudal	Shangri-La	2024	LAB ECO EVO UBB 
+71	Alsodes hugoi 	Ahugsl1124c	Tejido muscular aleta caudal	Shangri-La	2024	LAB ECO EVO UBB 
+72	Alsodes hugoi 	Ahugsl1224c	Tejido muscular aleta caudal	Shangri-La	2024	LAB ECO EVO UBB 
+73	Alsodes hugoi 	Ahugsl1424c	Tejido muscular aleta caudal	Shangri-La	2024	LAB ECO EVO UBB 
+74	Alsodes hugoi 	Ahugsl1524c	Tejido muscular aleta caudal	Shangri-La	2024	LAB ECO EVO UBB 
+75	Alsodes hugoi 	Ahugsl1624c	Tejido muscular aleta caudal	Shangri-La	2024	LAB ECO EVO UBB 
+76	Alsodes hugoi 	Ahugsl1824c	Tejido muscular aleta caudal	Shangri-La	2024	LAB ECO EVO UBB 
+77	Alsodes hugoi 	Ahugsl1924c	Tejido muscular aleta caudal	Shangri-La	2024	LAB ECO EVO UBB 
+78	Alsodes hugoi 	Ahugsl2024c	Tejido muscular aleta caudal	Shangri-La	2024	LAB ECO EVO UBB 
+79	Alsodes hugoi 	Ahugsl2124c	Tejido muscular aleta caudal	Shangri-La	2024	LAB ECO EVO UBB 
+80	Alsodes hugoi 	Ahugsl2224c	Tejido muscular aleta caudal	Shangri-La	2024	LAB ECO EVO UBB 
+81	Alsodes hugoi 	Ahugsl2324c	Tejido muscular aleta caudal	Shangri-La	2024	LAB ECO EVO UBB 
+82	Alsodes hugoi 	Ahugsl2424c	Tejido muscular aleta caudal	Shangri-La	2024	LAB ECO EVO UBB 
+83	Alsodes hugoi 	Ahugsl2524c	Tejido muscular aleta caudal	Shangri-La	2024	LAB ECO EVO UBB 
+84	Alsodes hugoi 	Ahugsl2724c	Tejido muscular aleta caudal	Shangri-La	2024	LAB ECO EVO UBB 
+85	Alsodes hugoi 	Ahugsl2824c	Tejido muscular aleta caudal	Shangri-La	2024	LAB ECO EVO UBB 
+86	Alsodes hugoi 	Ahugsl2924c	Tejido muscular aleta caudal	Shangri-La	2024	LAB ECO EVO UBB 

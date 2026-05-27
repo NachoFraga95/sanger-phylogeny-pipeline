@@ -1,0 +1,96 @@
+DATASET_COLORSTRIP
+SEPARATOR TAB
+DATASET_LABEL	Species
+COLOR	#000000
+
+LEGEND_TITLE	Species
+LEGEND_SHAPES	1	1	1	1	1	1	1	1	1	1
+LEGEND_COLORS	#C77CFF	#E41A1C	#377EB8	#4DAF4A	#D64715	#984EA3	#A65628	#B89F00	#F781BF	#666666
+LEGEND_LABELS	E. migueli	E. roseus	E. altor	E. insularis	P. thaul	E. septentrionalis	E. contulmoensis	P. bufonina	A. hugoi	E. vertebralis
+
+STRIP_WIDTH	25
+MARGIN	5
+BORDER_WIDTH	0
+SHOW_INTERNAL	0
+
+DATA
+2024_32_Ealtceron13sf_CRY	#4daf4a	E. altor
+2024_24_Ealtceron052016_CRY	#4daf4a	E. altor
+2025_62_Ealtcha1316_CRY	#4daf4a	E. altor
+2025_19_Ealtale01_CRY	#4daf4a	E. altor
+2024_30_Ealtceron11sf_CRY	#4daf4a	E. altor
+2024_31_Ealtceron12sf_CRY	#4daf4a	E. altor
+2025_31_Ealtpocon03_CRY	#4daf4a	E. altor
+2024_20_Ealtceron012016_CRY	#4daf4a	E. altor
+2024_21_Ealtceron022016_CRY	#4daf4a	E. altor
+2024_29_Ealtceron10sf_CRY	#4daf4a	E. altor
+2024_22_Ealtceron032016_CRY	#4daf4a	E. altor
+2024_25_Ealtceron062016_CRY	#4daf4a	E. altor
+2024_28_Ealtceron09sf_CRY	#4daf4a	E. altor
+2025_57_Ealtcha1516_CRY	#4daf4a	E. altor
+2025_59_Ealtcha1716_CRY	#4daf4a	E. altor
+2024_23_Ealtceron042016_CRY	#4daf4a	E. altor
+2024_27_Ealtceron08sf_CRY	#4daf4a	E. altor
+2024_26_Ealtceron07sf_CRY	#4daf4a	E. altor
+2025_61_Ealtcha1416_CRY	#4daf4a	E. altor
+2024_33_Ealtceron14sf_CRY	#4daf4a	E. altor
+2024_7_Econtct032017_CRY	#b35806	E. contulmoensis
+2024_5_Econtct012017_CRY	#b35806	E. contulmoensis
+2024_6_Econtct022017_CRY	#b35806	E. contulmoensis
+2025_53_Einsim1516_CRY	#984ea3	E. insularis
+2025_51_Einsim2516_CRY	#984ea3	E. insularis
+2025_50_Einsmo2216_CRY	#984ea3	E. insularis
+2025_55_Einsim1416_CRY	#984ea3	E. insularis
+2025_52_Einsim1616_CRY	#984ea3	E. insularis
+2024_10_Emicol1032016_CRY	#e78ac3	E. migueli
+2025_47_Emigcol0416_CRY	#e78ac3	E. migueli
+2024_12_Emicol1052016_CRY	#e78ac3	E. migueli
+2025_49_Emigcol1416_CRY	#e78ac3	E. migueli
+2025_46_Emigcol1316_CRY	#e78ac3	E. migueli
+2025_48_Emigcol0616_CRY	#e78ac3	E. migueli
+2024_8_Emicol1012016_CRY	#e78ac3	E. migueli
+2024_11_Emicol1042016_CRY	#e78ac3	E. migueli
+2024_9_Emicol1022016_CRY	#e78ac3	E. migueli
+2024_91_Europu1_CRY	#D10000	E. roseus
+2025_16_Eroarb10_CRY	#D10000	E. roseus
+2024_4_Erossj042017_CRY	#D10000	E. roseus
+2025_17_Eroarb02_CRY	#D10000	E. roseus
+2025_29_Eroponco08_CRY	#D10000	E. roseus
+2025_41_Erorlc14_CRY	#D10000	E. roseus
+2025_42_Eroarb03_CRY	#D10000	E. roseus
+2025_15_Eroarb11_CRY	#D10000	E. roseus
+2025_26_Eroponco01_CRY	#D10000	E. roseus
+2025_30_Eroponco02_CRY	#D10000	E. roseus
+2025_21_Erocol02_CRY	#D10000	E. roseus
+2024_1_Erossj012017_CRY	#D10000	E. roseus
+2024_92_Europu2_CRY	#D10000	E. roseus
+2025_64_Eropuc03_CRY	#D10000	E. roseus
+2025_23_Ercocol01_CRY	#D10000	E. roseus
+2025_27_Eroponco03_CRY	#D10000	E. roseus
+2024_41_Erossj022023h_CRY	#D10000	E. roseus
+2024_2_Erossj022017_CRY	#D10000	E. roseus
+2024_18_Erossj012023h_CRY	#D10000	E. roseus
+2024_35_Esep032017_CRY	#377eb8	E. septentrionalis
+2024_36_Esep042017_CRY	#377eb8	E. septentrionalis
+2024_39_Esep072017_CRY	#377eb8	E. septentrionalis
+2024_13_Esep01_CRY	#377eb8	E. septentrionalis
+2024_14_Esep02_CRY	#377eb8	E. septentrionalis
+2024_37_Esep052017_CRY	#377eb8	E. septentrionalis
+2024_38_Esep062017_CRY	#377eb8	E. septentrionalis
+2024_42_Pbuflj0124_CRY	#ffb74d	P. bufonina
+2024_43_Pbuflj0224_CRY	#ffb74d	P. bufonina
+2024_46_Pbufpp0324_CRY	#ffb74d	P. bufonina
+2024_44_Pbufpp0124_CRY	#ffb74d	P. bufonina
+2024_45_Pbufpp0224_CRY	#ffb74d	P. bufonina
+2024_47_Pbufpp0424_CRY	#ffb74d	P. bufonina
+2024_48_Pbufpp0524_CRY	#ffb74d	P. bufonina
+2024_49_Pbufpp0624_CRY	#ffb74d	P. bufonina
+2024_50_Pbufpp0724_CRY	#ffb74d	P. bufonina
+2024_61_Pbufpp1824_CRY	#ffb74d	P. bufonina
+2025_36_Pthalau16_CRY	#D64715	P. thaul
+2025_40_Pthalau14_CRY	#D64715	P. thaul
+2025_39_Pthalau10_CRY	#D64715	P. thaul
+2025_38_Pthalau21_CRY	#D64715	P. thaul
+2025_37_Pthalau02_CRY	#D64715	P. thaul
+2025_35_Pthalau09_CRY	#D64715	P. thaul
+2025_34_Pthasl01_CRY	#D64715	P. thaul

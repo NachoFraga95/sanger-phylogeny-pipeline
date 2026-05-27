@@ -1,0 +1,95 @@
+DATASET_COLORSTRIP
+SEPARATOR TAB
+DATASET_LABEL	Species
+COLOR	#000000
+
+LEGEND_TITLE	Species
+LEGEND_SHAPES	1	1	1	1	1	1	1	1	1	1
+LEGEND_COLORS	#C77CFF	#E41A1C	#377EB8	#4DAF4A	#D64715	#984EA3	#A65628	#B89F00	#F781BF	#666666
+LEGEND_LABELS	E. migueli	E. roseus	E. altor	E. insularis	P. thaul	E. septentrionalis	E. contulmoensis	P. bufonina	A. hugoi	E. vertebralis
+
+STRIP_WIDTH	25
+MARGIN	5
+BORDER_WIDTH	0
+SHOW_INTERNAL	0
+
+DATA
+2025_60_Ealtcha1816_POMC	#4daf4a	E. altor
+2025_31_Ealtpocon03_POMC	#4daf4a	E. altor
+2025_24_Ealtale02_POMC	#4daf4a	E. altor
+2025_58_Ealtcha1216_POMC	#4daf4a	E. altor
+2024_30_Ealtceron11sf_POMC	#4daf4a	E. altor
+2024_31_Ealtceron12sf_POMC	#4daf4a	E. altor
+2025_57_Ealtcha1516_POMC	#4daf4a	E. altor
+2025_19_Ealtale01_POMC	#4daf4a	E. altor
+2025_59_Ealtcha1716_POMC	#4daf4a	E. altor
+2025_56_Ealtcha1616_POMC	#4daf4a	E. altor
+2025_63_Ealtcha1916_POMC	#4daf4a	E. altor
+2024_7_Econtct032017_POMC	#b35806	E. contulmoensis
+2024_6_Econtct022017_POMC	#b35806	E. contulmoensis
+2024_5_Econtct012017_POMC	#b35806	E. contulmoensis
+2025_51_Einsim2516_POMC	#984ea3	E. insularis
+2025_53_Einsim1516_POMC	#984ea3	E. insularis
+2025_52_Einsim1616_POMC	#984ea3	E. insularis
+2025_55_Einsim1416_POMC	#984ea3	E. insularis
+2024_11_Emicol1042016_POMC	#e78ac3	E. migueli
+2024_12_Emicol1052016_POMC	#e78ac3	E. migueli
+2025_47_Emigcol0416_POMC	#e78ac3	E. migueli
+2024_9_Emicol1022016_POMC	#e78ac3	E. migueli
+2024_8_Emicol1012016_POMC	#e78ac3	E. migueli
+2025_48_Emigcol0616_POMC	#e78ac3	E. migueli
+2024_19_Erossj032023h_POMC	#D10000	E. roseus
+2024_18_Erossj012023h_POMC	#D10000	E. roseus
+2025_27_Eroponco03_POMC	#D10000	E. roseus
+2025_21_Erocol02_POMC	#D10000	E. roseus
+2025_10_Eroarb01_POMC	#D10000	E. roseus
+2025_29_Eroponco08_POMC	#D10000	E. roseus
+2025_16_Eroarb10_POMC	#D10000	E. roseus
+2025_2_Erorloc04_POMC	#D10000	E. roseus
+2025_3_Erorloc01_POMC	#D10000	E. roseus
+2025_11_Eroarb06_POMC	#D10000	E. roseus
+2025_30_Eroponco02_POMC	#D10000	E. roseus
+2025_23_Ercocol01_POMC	#D10000	E. roseus
+2025_9_Eroarb09_POMC	#D10000	E. roseus
+2025_17_Eroarb02_POMC	#D10000	E. roseus
+2025_1_Erorloc03_POMC	#D10000	E. roseus
+2025_15_Eroarb11_POMC	#D10000	E. roseus
+2025_41_Erorlc14_POMC	#D10000	E. roseus
+2025_64_Eropuc03_POMC	#D10000	E. roseus
+2025_4_Eropuc01_POMC	#D10000	E. roseus
+2025_42_Eroarb03_POMC	#D10000	E. roseus
+2025_14_Eroarb05_POMC	#D10000	E. roseus
+2025_13_Eroarb07_POMC	#D10000	E. roseus
+2025_26_Eroponco01_POMC	#D10000	E. roseus
+2025_12_Eroarb04_POMC	#D10000	E. roseus
+2024_91_Europu1_POMC	#D10000	E. roseus
+2024_92_Europu2_POMC	#D10000	E. roseus
+2024_41_Erossj022023h_POMC	#D10000	E. roseus
+2024_2_Erossj022017_POMC	#D10000	E. roseus
+2024_4_Erossj042017_POMC	#D10000	E. roseus
+2024_3_Erossj032017_POMC	#D10000	E. roseus
+2024_13_Esep01_POMC	#377eb8	E. septentrionalis
+2024_36_Esep042017_POMC	#377eb8	E. septentrionalis
+2024_37_Esep052017_POMC	#377eb8	E. septentrionalis
+2024_38_Esep062017_POMC	#377eb8	E. septentrionalis
+2024_35_Esep032017_POMC	#377eb8	E. septentrionalis
+2024_40_Esep082017_POMC	#377eb8	E. septentrionalis
+2024_39_Esep072017_POMC	#377eb8	E. septentrionalis
+2024_14_Esep02_POMC	#377eb8	E. septentrionalis
+2024_44_Pbufpp0124_POMC	#ffb74d	P. bufonina
+2024_45_Pbufpp0224_POMC	#ffb74d	P. bufonina
+2024_42_Pbuflj0124_POMC	#ffb74d	P. bufonina
+2024_47_Pbufpp0424_POMC	#ffb74d	P. bufonina
+2024_56_Pbufpp1324_POMC	#ffb74d	P. bufonina
+2024_43_Pbuflj0224_POMC	#ffb74d	P. bufonina
+2024_61_Pbufpp1824_POMC	#ffb74d	P. bufonina
+2024_49_Pbufpp0624_POMC	#ffb74d	P. bufonina
+2024_46_Pbufpp0324_POMC	#ffb74d	P. bufonina
+2024_48_Pbufpp0524_POMC	#ffb74d	P. bufonina
+2025_38_Pthalau21_POMC	#D64715	P. thaul
+2025_36_Pthalau16_POMC	#D64715	P. thaul
+2025_37_Pthalau02_POMC	#D64715	P. thaul
+2025_40_Pthalau14_POMC	#D64715	P. thaul
+2025_39_Pthalau10_POMC	#D64715	P. thaul
+2025_34_Pthasl01_POMC	#D64715	P. thaul
+2025_35_Pthalau09_POMC	#D64715	P. thaul

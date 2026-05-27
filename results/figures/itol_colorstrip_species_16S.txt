@@ -1,0 +1,73 @@
+DATASET_COLORSTRIP
+SEPARATOR TAB
+DATASET_LABEL	Species
+COLOR	#000000
+
+LEGEND_TITLE	Species
+LEGEND_SHAPES	1	1	1	1	1	1	1	1	1	1
+LEGEND_COLORS	#C77CFF	#E41A1C	#377EB8	#4DAF4A	#D64715	#984EA3	#A65628	#B89F00	#F781BF	#666666
+LEGEND_LABELS	E. migueli	E. roseus	E. altor	E. insularis	P. thaul	E. septentrionalis	E. contulmoensis	P. bufonina	A. hugoi	E. vertebralis
+
+STRIP_WIDTH	25
+MARGIN	5
+BORDER_WIDTH	0
+SHOW_INTERNAL	0
+
+DATA
+2024_25_Ealtceron062016_16S	#4daf4a	E. altor
+2024_30_Ealtceron11sf_16S	#4daf4a	E. altor
+2024_33_Ealtceron14sf_16S	#4daf4a	E. altor
+2024_32_Ealtceron13sf_16S	#4daf4a	E. altor
+2024_31_Ealtceron12sf_16S	#4daf4a	E. altor
+2024_29_Ealtceron10sf_16S	#4daf4a	E. altor
+2024_22_Ealtceron032016_16S	#4daf4a	E. altor
+2024_34_Ealtceron15sf_16S	#4daf4a	E. altor
+2024_20_Ealtceron012016_16S	#4daf4a	E. altor
+2024_26_Ealtceron07sf_16S	#4daf4a	E. altor
+2024_23_Ealtceron042016_16S	#4daf4a	E. altor
+2024_24_Ealtceron052016_16S	#4daf4a	E. altor
+2024_21_Ealtceron022016_16S	#4daf4a	E. altor
+2024_27_Ealtceron08sf_16S	#4daf4a	E. altor
+2024_28_Ealtceron09sf_16S	#4daf4a	E. altor
+2024_5_Econtct012017_16S	#b35806	E. contulmoensis
+2024_6_Econtct022017_16S	#b35806	E. contulmoensis
+2024_7_Econtct032017_16S	#b35806	E. contulmoensis
+2024_10_Emicol1032016_16S	#e78ac3	E. migueli
+2024_11_Emicol1042016_16S	#e78ac3	E. migueli
+2024_8_Emicol1012016_16S	#e78ac3	E. migueli
+2024_12_Emicol1052016_16S	#e78ac3	E. migueli
+2024_9_Emicol1022016_16S	#e78ac3	E. migueli
+2024_1_Erossj012017_16S	#D10000	E. roseus
+2024_3_Erossj032017_16S	#D10000	E. roseus
+2024_19_Erossj032023h_16S	#D10000	E. roseus
+2024_2_Erossj022017_16S	#D10000	E. roseus
+2024_41_Erossj022023h_16S	#D10000	E. roseus
+2024_18_Erossj012023h_16S	#D10000	E. roseus
+2024_14_Esep02_16S	#377eb8	E. septentrionalis
+2024_39_Esep072017_16S	#377eb8	E. septentrionalis
+2024_13_Esep01_16S	#377eb8	E. septentrionalis
+2024_37_Esep052017_16S	#377eb8	E. septentrionalis
+2024_38_Esep062017_16S	#377eb8	E. septentrionalis
+2024_36_Esep042017_16S	#377eb8	E. septentrionalis
+2024_35_Esep032017_16S	#377eb8	E. septentrionalis
+2024_40_Esep082017_16S	#377eb8	E. septentrionalis
+2024_52_Pbufpp0924_16S	#ffb74d	P. bufonina
+2024_42_Pbuflj0124_16S	#ffb74d	P. bufonina
+2024_43_Pbuflj0224_16S	#ffb74d	P. bufonina
+2024_44_Pbufpp0124_16S	#ffb74d	P. bufonina
+2024_57_Pbufpp1424_16S	#ffb74d	P. bufonina
+2024_55_Pbufpp1224_16S	#ffb74d	P. bufonina
+2024_45_Pbufpp0224_16S	#ffb74d	P. bufonina
+2024_54_Pbufpp1124_16S	#ffb74d	P. bufonina
+2024_59_Pbufpp1624_16S	#ffb74d	P. bufonina
+2024_58_Pbufpp1524_16S	#ffb74d	P. bufonina
+2024_46_Pbufpp0324_16S	#ffb74d	P. bufonina
+2024_50_Pbufpp0724_16S	#ffb74d	P. bufonina
+2024_56_Pbufpp1324_16S	#ffb74d	P. bufonina
+2024_47_Pbufpp0424_16S	#ffb74d	P. bufonina
+2024_48_Pbufpp0524_16S	#ffb74d	P. bufonina
+2024_60_Pbufpp1724_16S	#ffb74d	P. bufonina
+2024_53_Pbufpp1024_16S	#ffb74d	P. bufonina
+2024_49_Pbufpp0624_16S	#ffb74d	P. bufonina
+2024_61_Pbufpp1824_16S	#ffb74d	P. bufonina
+2024_51_Pbufpp0824_16S	#ffb74d	P. bufonina

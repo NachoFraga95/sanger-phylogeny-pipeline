@@ -1,0 +1,67 @@
+DATASET_COLORSTRIP
+SEPARATOR TAB
+DATASET_LABEL	Species
+COLOR	#000000
+
+LEGEND_TITLE	Species
+LEGEND_SHAPES	1	1	1	1	1	1	1	1	1	1
+LEGEND_COLORS	#C77CFF	#E41A1C	#377EB8	#4DAF4A	#D64715	#984EA3	#A65628	#B89F00	#F781BF	#666666
+LEGEND_LABELS	E. migueli	E. roseus	E. altor	E. insularis	P. thaul	E. septentrionalis	E. contulmoensis	P. bufonina	A. hugoi	E. vertebralis
+
+STRIP_WIDTH	25
+MARGIN	5
+BORDER_WIDTH	0
+SHOW_INTERNAL	0
+
+DATA
+2025_24_Ealtale02_COI	#4daf4a	E. altor
+2025_19_Ealtale01_COI	#4daf4a	E. altor
+2025_56_Ealtcha1616_COI	#4daf4a	E. altor
+2025_59_Ealtcha1716_COI	#4daf4a	E. altor
+2025_63_Ealtcha1916_COI	#4daf4a	E. altor
+2025_31_Ealtpocon03_COI	#4daf4a	E. altor
+2025_57_Ealtcha1516_COI	#4daf4a	E. altor
+2025_58_Ealtcha1216_COI	#4daf4a	E. altor
+2025_61_Ealtcha1416_COI	#4daf4a	E. altor
+2024_5_Econtct012017_COI	#b35806	E. contulmoensis
+2025_52_Einsim1616_COI	#984ea3	E. insularis
+2025_55_Einsim1416_COI	#984ea3	E. insularis
+2025_53_Einsim1516_COI	#984ea3	E. insularis
+2025_44_Emigcol0416_COI	#e78ac3	E. migueli
+2025_47_Emigcol0416_COI	#e78ac3	E. migueli
+2025_48_Emigcol0616_COI	#e78ac3	E. migueli
+2024_8_Emicol1012016_COI	#e78ac3	E. migueli
+2024_18_Erossj012023h_COI	#D10000	E. roseus
+2024_41_Erossj022023h_COI	#D10000	E. roseus
+2024_19_Erossj032023h_COI	#D10000	E. roseus
+2025_10_Eroarb01_COI	#D10000	E. roseus
+2025_9_Eroarb09_COI	#D10000	E. roseus
+2025_4_Eropuc01_COI	#D10000	E. roseus
+2025_64_Eropuc03_COI	#D10000	E. roseus
+2025_12_Eroarb04_COI	#D10000	E. roseus
+2025_42_Eroarb03_COI	#D10000	E. roseus
+2025_14_Eroarb05_COI	#D10000	E. roseus
+2025_11_Eroarb06_COI	#D10000	E. roseus
+2025_13_Eroarb07_COI	#D10000	E. roseus
+2025_8_Eroarb08_COI	#D10000	E. roseus
+2025_15_Eroarb11_COI	#D10000	E. roseus
+2025_3_Erorloc01_COI	#D10000	E. roseus
+2025_41_Erorlc14_COI	#D10000	E. roseus
+2025_16_Eroarb10_COI	#D10000	E. roseus
+2025_1_Erorloc03_COI	#D10000	E. roseus
+2025_2_Erorloc04_COI	#D10000	E. roseus
+2025_21_Erocol02_COI	#D10000	E. roseus
+2025_23_Ercocol01_COI	#D10000	E. roseus
+2025_26_Eroponco01_COI	#D10000	E. roseus
+2025_30_Eroponco02_COI	#D10000	E. roseus
+2025_27_Eroponco03_COI	#D10000	E. roseus
+2025_29_Eroponco08_COI	#D10000	E. roseus
+2024_13_Esep01_COI	#377eb8	E. septentrionalis
+2024_35_Esep032017_COI	#377eb8	E. septentrionalis
+2025_34_Pthasl01_COI	#D64715	P. thaul
+2025_40_Pthalau14_COI	#D64715	P. thaul
+2025_35_Pthalau09_COI	#D64715	P. thaul
+2025_38_Pthalau21_COI	#D64715	P. thaul
+2025_36_Pthalau16_COI	#D64715	P. thaul
+2025_39_Pthalau10_COI	#D64715	P. thaul
+2025_37_Pthalau02_COI	#D64715	P. thaul

@@ -1,0 +1,65 @@
+DATASET_COLORSTRIP
+SEPARATOR TAB
+DATASET_LABEL	Species
+COLOR	#000000
+
+LEGEND_TITLE	Species
+LEGEND_SHAPES	1	1	1	1	1	1	1	1	1	1
+LEGEND_COLORS	#C77CFF	#E41A1C	#377EB8	#4DAF4A	#D64715	#984EA3	#A65628	#B89F00	#F781BF	#666666
+LEGEND_LABELS	E. migueli	E. roseus	E. altor	E. insularis	P. thaul	E. septentrionalis	E. contulmoensis	P. bufonina	A. hugoi	E. vertebralis
+
+STRIP_WIDTH	25
+MARGIN	5
+BORDER_WIDTH	0
+SHOW_INTERNAL	0
+
+DATA
+2025_24_Ealtale02_DLOOP	#4daf4a	E. altor
+2025_61_Ealtcha1416_DLOOP	#4daf4a	E. altor
+2025_62_Ealtcha1316_DLOOP	#4daf4a	E. altor
+2025_44_Emigcol0416_DLOOP	#e78ac3	E. migueli
+2025_48_Emigcol0616_DLOOP	#e78ac3	E. migueli
+2024_18_Erossj012023h_DLOOP	#D10000	E. roseus
+2024_19_Erossj032023h_DLOOP	#D10000	E. roseus
+2024_41_Erossj022023h_DLOOP	#D10000	E. roseus
+2024_91_Europu1_DLOOP	#D10000	E. roseus
+2024_92_Europu2_DLOOP	#D10000	E. roseus
+2025_64_Eropuc03_DLOOP	#D10000	E. roseus
+2025_10_Eroarb01_DLOOP	#D10000	E. roseus
+2025_42_Eroarb03_DLOOP	#D10000	E. roseus
+2025_12_Eroarb04_DLOOP	#D10000	E. roseus
+2025_9_Eroarb09_DLOOP	#D10000	E. roseus
+2025_14_Eroarb05_DLOOP	#D10000	E. roseus
+2025_11_Eroarb06_DLOOP	#D10000	E. roseus
+2025_13_Eroarb07_DLOOP	#D10000	E. roseus
+2025_1_Erorloc03_DLOOP	#D10000	E. roseus
+2025_3_Erorloc01_DLOOP	#D10000	E. roseus
+2025_15_Eroarb11_DLOOP	#D10000	E. roseus
+2025_16_Eroarb10_DLOOP	#D10000	E. roseus
+2025_8_Eroarb08_DLOOP	#D10000	E. roseus
+2025_21_Erocol02_DLOOP	#D10000	E. roseus
+2025_23_Ercocol01_DLOOP	#D10000	E. roseus
+2025_26_Eroponco01_DLOOP	#D10000	E. roseus
+2025_27_Eroponco03_DLOOP	#D10000	E. roseus
+2025_30_Eroponco02_DLOOP	#D10000	E. roseus
+2025_2_Erorloc04_DLOOP	#D10000	E. roseus
+2025_29_Eroponco08_DLOOP	#D10000	E. roseus
+2025_41_Erorlc14_DLOOP	#D10000	E. roseus
+2025_4_Eropuc01_DLOOP	#D10000	E. roseus
+2024_42_Pbuflj0124_DLOOP	#ffb74d	P. bufonina
+2024_43_Pbuflj0224_DLOOP	#ffb74d	P. bufonina
+2024_44_Pbufpp0124_DLOOP	#ffb74d	P. bufonina
+2024_45_Pbufpp0224_DLOOP	#ffb74d	P. bufonina
+2024_46_Pbufpp0324_DLOOP	#ffb74d	P. bufonina
+2024_47_Pbufpp0424_DLOOP	#ffb74d	P. bufonina
+2024_48_Pbufpp0524_DLOOP	#ffb74d	P. bufonina
+2024_49_Pbufpp0624_DLOOP	#ffb74d	P. bufonina
+2024_61_Pbufpp1824_DLOOP	#ffb74d	P. bufonina
+2024_50_Pbufpp0724_DLOOP	#ffb74d	P. bufonina
+2025_34_Pthasl01_DLOOP	#D64715	P. thaul
+2025_40_Pthalau14_DLOOP	#D64715	P. thaul
+2025_35_Pthalau09_DLOOP	#D64715	P. thaul
+2025_38_Pthalau21_DLOOP	#D64715	P. thaul
+2025_36_Pthalau16_DLOOP	#D64715	P. thaul
+2025_37_Pthalau02_DLOOP	#D64715	P. thaul
+2025_39_Pthalau10_DLOOP	#D64715	P. thaul
